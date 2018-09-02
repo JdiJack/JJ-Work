@@ -1,0 +1,16 @@
+[
+{
+  "modid": "jjwork",
+  "name": "JJ Work",
+  "description": "Questa è la struttura base delle mod di JdiJack",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["JdiJack"],
+  "credits": "The Forge and FML guys",
+  "logoFile": "/logo.jpg",
+  "screenshots": [],
+  "dependencies": []
+}
+]
